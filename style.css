@@ -1,0 +1,14 @@
+img.myphoto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+aside{
+    float: left;
+    width: 300px;
+    margin-left: 100px;
+    background-color: #fafafa
+}
+.cv{
+    margin-left: 30px;
+}
